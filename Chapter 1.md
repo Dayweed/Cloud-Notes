@@ -70,7 +70,7 @@ Cons:
 * Infrastructure-as-a-Service(IaaS)
 
 ### Virtual Machines vs Containers vs Serverless Functions
-
+![fig 1.](ImageAssets/Cpt1.1.png)
 
 ### Key Takeaways
 * Virtualization technology has evolced from virtualizing basic computing resources to virtualizing other resources at different abstract levels which leads to various type of cloud services
