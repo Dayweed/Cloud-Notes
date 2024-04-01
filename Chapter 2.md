@@ -1,4 +1,4 @@
-# Cloud Service Models
+# Chapter 2 Cloud Service Models
 ## Cloud Software Stack
 ### Software Stack for Cloud Services
 ![fig 1.](ImageAssets/Cpt2.1.png)

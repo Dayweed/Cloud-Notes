@@ -1,4 +1,3 @@
-# Cloud-Notes
 # Chapter 1
 ## Cloud Computing Basics
 ### What is cloud computing
