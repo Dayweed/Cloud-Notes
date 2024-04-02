@@ -37,7 +37,7 @@
 |Collaborative Development | Security and data privacy |
 | Additional development capabilities | Platform/ Vendor Lock in |
 | Automated testing and deployment | Complexity |
-## Tpyical Use Cases
+## Typical Use Cases
 * Api development and management
 * Real time data processing
 * Agile development and DevOps
