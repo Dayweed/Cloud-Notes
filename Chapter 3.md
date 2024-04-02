@@ -52,3 +52,55 @@
 | Improved Security and Data Privacy |Added Complexity|
 | Cost Optimization |Expertise|
 |Support legacy applications||
+## Multi-Cloud
+* More than 1 cloud service provider
+* Can come from different vendors or cloud service providers
+### Examples of Multi-Cloud tools
+![](ImageAssets/Cpt3.1.png)
+### Pros an Cons of a Multi-Cloud vs Public Cloud
+| Pros | Cons |
+|--- | --- |
+|Prevent Vendor Lock-in|Security Concerns|
+|Availability and Redundancy|Management Complexity|
+|Leverage Various Capabilities|Expertise|
+## Key Takeaways
+* 4 Different Cloud Deployment Models
+  * Public Cloud is open to general public
+  * Private Cloud is limited to a particular organization
+  * Hybrid Cloud comprises of at least 1 private and public cloud
+  * Multi-cloud include 2 or more cloud infrastructures
+* Each model has pros and cons
+# Scalable Cloud Architecture
+## Standalone to Scalable
+![](ImageAssets/Cpt3.2.png)
+### Single Baseline Architecture
+* In a simple baseline architecture an application acan be delivered by a single cloud server (e.g. A VM)
+### Example of 3-Tier Web Application
+* Presentation Tier
+  * Providing the UI.
+* Logic Tier
+  * Hosting the logic used to process user inputs via business logics 
+* Data Tier
+  * Contains the data in the form of data files, databases, etc stored in a data server
+![](ImageAssets/Cpt3.3.png)
+### Implementation Example
+* Step 1: Set up the VM instance in a Public Cloud
+* Step 2 Program the appplication in the VM instance
+* Start the web service from the VM instance
+### Use case of 3-Tier Application
+* Personal Webpages
+* Business Websites
+* Simple Web Application
+### Design Consideration
+![](ImageAssets/Cpt3.4.png)
+| Pros | Cons |
+|--- | --- |
+|Simplicity|No Redundancy|
+|Easy to Manage|Low Scalability|
+|Fast Development|Less Flexibility|
+### Scalable Cloud Architectures
+* Scale Up/Down
+  * Vertical Scaling: Increase or decrease the capacity of existing services/ instances
+* Scale In/Out
+  * Horizontal Scaling: Add or reduce the amount of resources e.g., VMs to overall system
+  
