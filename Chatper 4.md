@@ -25,4 +25,53 @@
     * An entire object must be updated
 * ### Block Storage
     * Individual blocks can be modified
-    
+## Object Storage
+* ### A form of data storage in the cloud, where data is managed as distinct units, known as objects
+* ### Treats each piece of data as an individual unit and requires updating the data as an entire object
+## Storing Data as Objects
+* Objects have 3 componenets
+  * ID : Unique Identifier
+  * Metadata : Description about the data such as timestamps, size, etc.
+  * Data : Actual Data
+* Data is stored in a flat structure. When a portion of the file is updated, the whole object needs to be updated
+## Block Storage
+* Block-level storage, stores data in small fixed-size blocks
+* Can be place wherever it is more convenient and efficient
+* Can be controlled and managed independently
+# Storing data in Fixed-size Blocks
+* A large file is divided into blocks which are smaller units of uniform size
+* Each block is assigned a UID and stored in a system most convenient and efficient location.
+* Sotrage volumes can be created using blocks, functioning like virutal hard drives to be attached/detached from VMs
+## Types of service to store data
+![](ImageAssets/Cpt4.2.png)
+## Different types of services
+![](ImageAssets/Cpt4.3.png)
+## Key Takeaways
+* ### Benefits of cloud data storage
+  * ### High accessibility
+  * ### Pay per use
+  * ### Data encryption
+  * ### Easy Sync Up
+  * ### Sharing
+* ### Cloud persistant storage can store and keep data even through reboots, start/stop, or other lifecycle events
+* ### Cloud block storage can have relative lower access latency but higher cost. Cloud block storage can be used as hard disk/boot volumes
+# Cloud Database
+* Cloud database stores and backups the information in the cloud. Allows users to access, update and search them in the cloud. Cloud service providers provide on demand managed database services.
+## Benefits of cloud database
+* ### Usability and accessibility
+  * Allows users to use online database services w/o need to manage the database server, OS updates, patches, etc. Can select different types of database engines and retrieve data as long as there is internet connections
+* ### Scalability and redundancy
+  * Provide features like auto scaling, snapshots for versioning and replica for redundancy and recovery
+* ### On demand and pay per use
+* ### Other service offering
+  * Features such as encryption, migration service, user friendly interactive interfaces, version controls and easy connections with other data analytics services, etc
+## Relational Database
+![](ImageAssets/Cpt4.4.png)
+### Amazaon Relational Database Service(RDS)
+* A database instance is an isolated database environment that can contain multiple user-created databases. User can configure the database environments to allow users/applications to access the RDS instance via EC2 instance. There are 6 different relational database engines suported by Amazon RDS
+## Relational versus non-relational databases
+![](ImageAssets/Cpt4.5.png)
+## Scalability of Relational vs Non-relational databases
+![](ImageAssets/Cpt4.6.png)
+## Different types of Clout Non-Relational Database Services
+![](ImageAssets/Cpt4.7.png)
