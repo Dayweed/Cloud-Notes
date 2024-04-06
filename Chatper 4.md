@@ -75,3 +75,26 @@
 ![](ImageAssets/Cpt4.6.png)
 ## Different types of Clout Non-Relational Database Services
 ![](ImageAssets/Cpt4.7.png)
+## Key Takeaway
+* ### Cloud Database provide managed database solutions to store and backup the information and allow users to access, update and search them in the cloud
+* ### To select suitable database services, users need to take various factors into consideration such as data types e.g., structured or non structured, data volume, response time, reliability, etc
+* ### Cloud Relational Database store data in table form e.g row and column while Non-Relational Database services store data in various formats including documents, key-value pair, wide column stores and graphs
+# Cloud AI and Data Analytics
+## Data analytics
+* Applies specific analytic techniques to process data and generate insights for business improvement/optimization.
+## Cloud AI
+* Refers to the delivery of artificial intelligence services through cloud
+* Encompasses a variety of cloud resources and tools for developing AI models and provides AI services that allow users to implement AI capabilities into their applications without having to develop these technologies from scratch
+# Key Takeaways
+* ### Cloud data storages comes in 4 different types
+  * Object Storage
+  * Block Storage
+  * Networked file systems
+  * Data archiving storage
+* ### Cloud database allows users to use cloud managed database solutions
+  * SQL database
+  * NoSQL database
+  * Graph database
+  * In-memory database
+* ### Cloud AI tools and services use various technologies across AI lifecycle to support, develop, deploy,, monitor and sharing of AI solutions
+* Cloud data analytic tools and services provide online tools for data operations such as data warehouse query data transformation, stream operations, scalable data processing, visualization and BI analytics
