@@ -26,8 +26,8 @@
 * ### Block Storage
     * Individual blocks can be modified
 ## Object Storage
-* ### A form of data storage in the cloud, where data is managed as distinct units, known as objects
-* ### Treats each piece of data as an individual unit and requires updating the data as an entire object
+*  A form of data storage in the cloud, where data is managed as distinct units, known as objects
+*  Treats each piece of data as an individual unit and requires updating the data as an entire object
 ## Storing Data as Objects
 * Objects have 3 componenets
   * ID : Unique Identifier
@@ -97,4 +97,4 @@
   * Graph database
   * In-memory database
 * ### Cloud AI tools and services use various technologies across AI lifecycle to support, develop, deploy,, monitor and sharing of AI solutions
-* Cloud data analytic tools and services provide online tools for data operations such as data warehouse query data transformation, stream operations, scalable data processing, visualization and BI analytics
+* ### Cloud data analytic tools and services provide online tools for data operations such as data warehouse query data transformation, stream operations, scalable data processing, visualization and BI analytics

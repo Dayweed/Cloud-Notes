@@ -38,3 +38,15 @@
 ![](ImageAssets/Cpt3.7.png)
   * Elasticity is just auto scaler
 # Chapter 4
+* ## Cloud data storages comes in 4 different types
+  * ### Object Storage
+  * ### Block Storage
+  * ### Networked file systems
+  * ### Data archiving storage
+* ## Cloud database allows users to use cloud managed database solutions
+  * ### SQL database
+  * ### NoSQL database
+  * ### Graph database
+  * ### In-memory database
+* ### Cloud AI tools and services use various technologies across AI lifecycle to support, develop, deploy,, monitor and sharing of AI solutions
+* ### Cloud data analytic tools and services provide online tools for data operations such as data warehouse query data transformation, stream operations, scalable data processing, visualization and BI analytics
