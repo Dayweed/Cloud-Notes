@@ -39,14 +39,29 @@
   * Elasticity is just auto scaler
 # Chapter 4
 * ## Cloud data storages comes in 4 different types
+![](ImageAssets/Summary.7.png)
   * ### Object Storage
   * ### Block Storage
   * ### Networked file systems
   * ### Data archiving storage
 * ## Cloud database allows users to use cloud managed database solutions
-  * ### SQL database
-  * ### NoSQL database
+![](ImageAssets/Summary.8.png)
+  * ## SQL database
+    * ### Uses sql
+    * ### store in row/col table
+    * ### fixed schema
+    * ### vertical scaling
+  * ## NoSQL database
+    * ### use a variety of query lang
+    * ### stored in/with key-val/document/ wide col/graph
+    * ### flexible schema
+    * ### horizontal scaling
   * ### Graph database
   * ### In-memory database
 * ### Cloud AI tools and services use various technologies across AI lifecycle to support, develop, deploy,, monitor and sharing of AI solutions
 * ### Cloud data analytic tools and services provide online tools for data operations such as data warehouse query data transformation, stream operations, scalable data processing, visualization and BI analytics
+# Chapter 5
+* ## In Cloud shared respondsibility model both user and cloud service providers are respondsible for security and compliance. Specific Responsibilities vary on the service model
+* ## Identity and Access Management(IAM) is a fine grant control specifying who or what resources can access. It also maanges identites across single or multiple AWS accounts and refine access perms using IAM policies
+* ## VPCs and subnets isolate sections containing a pool of resources from the public cloud. Users can set rules in Firewall/Security Groups and specify the route tables to control network access
+* ## Data encryption is a process converting plaintext data into ciphertext to protect data. One of the most effective ways to protect cloud data *in transit or at rest*
