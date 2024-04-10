@@ -28,3 +28,13 @@
 * ### Multi
 ![](ImageAssets/Summary.5.png)
 ## 3 Types of Cloud Architectures
+* ### Simple Basic Architecture
+![](ImageAssets/Cpt3.3.png)
+* ### Cloud architecture with Load Balancer (Redundancy)
+![](ImageAssets/Cpt3.5.png)
+![](ImageAssets/Summary.6.png)
+  * Redundancy is duplication/back-up of data to allow individual failures
+* ### Cloud architecture with Elasticity
+![](ImageAssets/Cpt3.7.png)
+  * Elasticity is just auto scaler
+# Chapter 4
