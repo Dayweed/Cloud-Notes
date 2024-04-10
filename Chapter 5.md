@@ -52,7 +52,7 @@
 ## Classless Inter-Domain Routing (CIDR)
 * Defines the range of IP addresses to use
 ![](ImageAssets/Cpt5.6.png)
-  * Within 2<sup>8 = 256 addresses, **5 IP addresses are reserved by the system**, so users can only use 256 - 5 = 251
+  * Within 2<sup>8</sup> = 256 addresses, **5 IP addresses are reserved by the system**, so users can only use 256 - 5 = 251
 ### Range of IP Addresses for subnets
 ![](ImageAssets/Cpt5.7.png)
 ## Route Tables
