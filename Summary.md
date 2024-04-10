@@ -30,6 +30,7 @@
 ## 3 Types of Cloud Architectures
 * ### Simple Basic Architecture
 ![](ImageAssets/Cpt3.3.png)
+![](ImageAssets/Cpt3.4.png)
 * ### Cloud architecture with Load Balancer (Redundancy)
 ![](ImageAssets/Cpt3.5.png)
 ![](ImageAssets/Summary.6.png)
